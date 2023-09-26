@@ -1,0 +1,12 @@
+.blog {
+    width: 100%;
+    height: calc(100vh-8vh);
+}
+
+.blog h2{
+    font-size: 3rem;
+    font-weight: 200;
+    text-align: center;
+    margin-top: 20%;
+    color: grey;
+}
