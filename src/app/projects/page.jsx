@@ -3,6 +3,15 @@ import React from "react";
 
 const projects = [
 	{
+		id: 4,
+		title: "Scend",
+		desc: "Fintech application",
+		github_link: "https://github.com/ChibuzoEkwue/scend",
+		live_link: "https://scend-delta.vercel.app",
+		tags: ["React"],
+		slug: "flair",
+	},
+	{
 		id: 1,
 		title: "Flair",
 		desc: "A Single page site for a futuristic fashion agency",
@@ -11,6 +20,7 @@ const projects = [
 		tags: ["React"],
 		slug: "flair",
 	},
+
 	{
 		id: 2,
 		title: "Chalk Board",
